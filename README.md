@@ -5,23 +5,24 @@ https://github.com/binarythistle/S04E03---.NET-Microservices-Course-/blob/main/P
 
 ⏲️ Time Codes ⏲️
 
-~~- 0:00 PART 1 - INTRODUCTION & Theory
-~~- 2:39 Course Approach
-~~- 6:11 Course Overview
-~~- 11:31 Ingredients & Tooling
-~~- 16:14 What are microservices?
-~~- 33:40 Overview of our microservices
-~~- 37:37 Solution Architecture
-~~- 43:54 Application Architecture 
+- ~~0:00 PART 1 - INTRODUCTION & Theory
+- 2:39 Course Approach
+- 6:11 Course Overview
+- 11:31 Ingredients & Tooling
+- 16:14 What are microservices?
+- 33:40 Overview of our microservices
+- 37:37 Solution Architecture
+- 43:54 Application Architecture 
 
-~~- 46:47 PART 2 - BUILDING THE FIRST SERVICE
-~~- 47:33 Scaffolding the service
-~~- 52:37 Data Layer - Model
-~~- 57:35 Data Layer - DB Context
-~~- 1:02:38 Data Layer - Repository
-~~- 1:16:00 Data Layer - DB Preparation
-~~- 1:27:31 Data Layer - Data Transfer Objects
-~~- 1:41:19 Controller and Actions
+- 46:47 PART 2 - BUILDING THE FIRST SERVICE
+- 47:33 Scaffolding the service
+- 52:37 Data Layer - Model
+- 57:35 Data Layer - DB Context
+- 1:02:38 Data Layer - Repository
+- 1:16:00 Data Layer - DB Preparation
+- 1:27:31 Data Layer - Data Transfer Objects
+- 1:41:19 Controller and Actions
+
 
 2:16:21 PART 3 - DOCKER & KUBERNETES
 - 2:16:21 Review of Docker
