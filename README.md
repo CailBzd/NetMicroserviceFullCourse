@@ -6,9 +6,9 @@ https://github.com/binarythistle/S04E03---.NET-Microservices-Course-/blob/main/P
 ⏲️ Time Codes ⏲️
 
 
-<s> - 0:00 PART 1 - INTRODUCTION & Theory </s>
-<strike> - 2:39 Course Approach </strike>
-<del> - 6:11 Course Overview </del>
+- <s> 0:00 PART 1 - INTRODUCTION & Theory </s>
+- <strike>2:39 Course Approach </strike>
+- <del> 6:11 Course Overview </del>
 - 11:31 Ingredients & Tooling
 - 16:14 What are microservices?
 - 33:40 Overview of our microservices
