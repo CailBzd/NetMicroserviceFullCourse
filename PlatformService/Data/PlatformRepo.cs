@@ -1,7 +1,6 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
 using System.Security.AccessControl;
 using PlatformService.Models;
 
@@ -9,36 +8,24 @@ namespace PlatformService.Data
 {
     public class PlatformRepo : IPlatformRepo
     {
-        private readonly AppDbContext _context;
-
-        public PlatformRepo(AppDbContext context)
+        public void CreatePlaform(Platform palt)
         {
-            _context = context;
-        }
-
-        public void CreatePlaform(Platform plat)
-        {
-            if (plat == null)
-            {
-                throw new ArgumentNullException(nameof(plat));
-            }
-
-            _context.Platforms.Add (plat);
+            throw new System.NotImplementtedException();
         }
 
         public IEnumerable<Platform> GetAllPlatforms()
         {
-            return _context.Platforms.ToList();
+            throw new System.NotImplementtedException();
         }
 
         public Platform GetPlatformById(int id)
         {
-            return _context.Platforms.FirstOrDefault(p => p.Id == id);
+            throw new System.NotImplementtedException();
         }
 
         public bool SaveChanges()
         {
-            return (_context.SaveChanges() >= 0);
+            throw new System.NotImplementtedException();
         }
     }
 }
