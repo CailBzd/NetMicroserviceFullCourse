@@ -49,6 +49,8 @@ namespace PlatformService
                             Version = "v1"
                         });
                 });
+
+                Console.WriteLine($"--> CommandService EndPoint {Configuration["CommandService"]}");
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
